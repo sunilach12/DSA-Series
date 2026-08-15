@@ -1,0 +1,41 @@
+ C++ is the case scencetive 
+
+";" tis is terminator to close the code
+
+main() => Starting the code 
+
+int main(){
+
+}
+
+
+// with out this use have to do 
+ using namespace std;
+
+std::cout << "Hello " ;
+
+return 0; :> it is used to return the integer values .
+
+--> How the code runs : 
+
+code.cpp ( sourse code) ----> Compiler -----> code.exe ( executable File )
+
+
+// Boilerplate Code.  we  strat from this 
+#include <iostream> 
+using namespace std;
+int main(){
+
+  return 0;
+}
+
+
+# variable should be  introduced the data types 
+
+data type are : they are premetive datatypes  means basic datatype .
+
+1) int  =  this  int  datatypes take the 4 byte memory  and memory store the binary number .
+2) char = it take 1 byte  and only take the 1 character like A , B , C and it compare with ASCII value   
+3) float = 4 byte
+4) bool =  1 byte ,True = 1 , false = 0 machine aut9omatic  assume the value 0 and 1 like and  GATES .
+5) double   = DOuble of float value = 8 byte 
