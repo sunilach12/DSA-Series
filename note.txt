@@ -39,3 +39,16 @@ data type are : they are premetive datatypes  means basic datatype .
 3) float = 4 byte
 4) bool =  1 byte ,True = 1 , false = 0 machine aut9omatic  assume the value 0 and 1 like and  GATES .
 5) double   = DOuble of float value = 8 byte 
+
+
+# Type Casting :
+
+Converting data from one type to another 
+
+Conversion [Implicit] -- compiler directly conversing  the values.
+
+casting Explicit : with manually  it is used to convert the big data to small data .
+
+# input in C++ ;
+
+Syntax : cin >> data ;
